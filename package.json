@@ -4,7 +4,8 @@
   "description": "this is a demo",
   "main": "app.js",
   "scripts": {
-    "test": "echo 'success'"
+    "test": "echo 'success'",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
